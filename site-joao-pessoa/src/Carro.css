@@ -1,0 +1,16 @@
+h1{
+    color: red;
+
+}
+ul{
+    color: blue;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    border-radius: 12px;
+    border: 2px solid blue;
+}
+ul li{
+    padding: 10px;
+    border-bottom: 1px solid blue;
+}
